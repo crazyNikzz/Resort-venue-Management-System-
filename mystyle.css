@@ -1,0 +1,35 @@
+body{
+     background-image:radial-gradient(#baa3f9, #dddddd, #e6e6fa);
+}
+h1{
+    font-size: 300%;
+    color: white;
+    text-align: right ;
+}
+p{
+    color: white;
+    font-size: 150%;
+    text-align: right;
+}
+img {
+    width: 100%;
+    height: auto;
+  }
+button{
+    align-items: last baseline top ;
+    color: white;
+    font-size: 150%;
+    size: 24px;
+    padding: 14px 40px;
+    border-radius: 12px;
+     background-image:radial-gradient(#baa3f9, #dddddd, #e6e6fa);
+    color: white;
+    border: 2px solid white;
+}
+.myDiv {
+    display: block;
+  }
+
+  .container {
+    position: relative;
+  }
